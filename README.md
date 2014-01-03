@@ -11,3 +11,5 @@ TODO:
 - Add ability to use more than 1 template file (randomly select template)
 - Add ability to attach debugger on crash (WinDbg?)
 - Automate debugger with scipts to log useful info + minidump
+- Automate explotability analysis
+- Automatically attempt repro to eliminate one-off crashes
